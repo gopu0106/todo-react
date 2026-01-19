@@ -6,11 +6,11 @@ A simple and clean To-Do List application built with React and Vite for managing
 
 This is a functional To-Do List application that allows you to:
 
-- ✅ Add new tasks
-- ✏️ Edit existing tasks (inline editing)
-- 🗑️ Delete tasks
-- ✔️ Mark tasks as completed (with line-through effect)
-- 📋 View all your tasks in an organized list
+-  Add new tasks
+-  Edit existing tasks (inline editing)
+-  Delete tasks
+-  Mark tasks as completed (with line-through effect)
+-  View all your tasks in an organized list
 
 The application is built using **React functional components** and **useState hooks** for state management. It demonstrates proper use of props, component composition, and React's list rendering with unique keys.
 
