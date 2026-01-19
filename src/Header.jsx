@@ -1,4 +1,4 @@
-// Header component - displays the app title
+// Header component :displays the app title
 function Header() {
   return (
     <header className="app-header">
